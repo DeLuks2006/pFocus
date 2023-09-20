@@ -1,9 +1,9 @@
-# BeatIt
 <p align="center">
     <img src="logo.png" alt="Logo" height=185 width=185>
 </p>
+<h1 align="center"> <b>BeatIt</b> </h1>
 
-****
+<!-- start here -->
 
 ### A program that helps you beat procrastination
 
